@@ -1,0 +1,4 @@
+Python is easy
+I am learning Python programming
+File handling is interesting
+Hi

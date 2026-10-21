@@ -1,0 +1,16 @@
+
+
+Name: Rajath
+Attendence: Present
+
+Name: Abhay
+Attendence: Absent
+
+Name: Pradith
+Attendence: Present
+
+Name: Vinayak
+Attendence: Present
+
+Name: Adharv
+Attendence: Present
